@@ -1,3 +1,5 @@
+# DNA2Protein
+
 Hello! This is a user's manual on how to use the flask application that I have created, DNA2Protein!
 
 I have created a folder called "final," which contains all of the files necessary to compile, configure, and use my project. Inside the folder, I have the markdown files, which contain this file, as well as the DESIGN.md file that explains the technical aspects of my project. It also contains the application.py that has python code for my flask application. The static folder contains all of the images that I have used and the "styles.css" file that I used to add stylistic elements to my web application. The next folder is the templates folder, which contains the .html files that corresponds to different pages of the web application. Lastly, I have the test files, where I have added 7 different .txt files containing DNA sequences for you to test my web application with.
